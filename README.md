@@ -31,8 +31,8 @@ Overall score: **2 / 10**
 Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Code-Review** (0/10) — Found 1/27 approved changesets -- score normalized to 0
 - **Maintained** (0/10) — project is archived
+- **Code-Review** (0/10) — Found 1/27 approved changesets -- score normalized to 0
 
 ## Source
 
@@ -51,12 +51,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-15 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-16 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-16 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-17 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-18 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-20 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-25 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
@@ -67,4 +67,4 @@ Install metadata for ulp lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T04:42:43Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T04:24:57Z._
